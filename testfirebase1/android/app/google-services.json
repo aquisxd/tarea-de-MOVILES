@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726963984228",
+    "project_id": "fir-jhan",
+    "storage_bucket": "fir-jhan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726963984228:android:575354ddd316ab08720c71",
+        "android_client_info": {
+          "package_name": "jhan.capia.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726963984228-menk7mv700bpk18i83a45b9cmjkl4hkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHLzoGyu7U1kgnMLkKnRUBRGha4vQkIVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726963984228-menk7mv700bpk18i83a45b9cmjkl4hkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
