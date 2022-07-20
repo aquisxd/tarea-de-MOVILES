@@ -38,7 +38,10 @@ dependencies:
   firebase_auth:
   flutter_phone_direct_caller: ^2.1.1
   flutter_sms:
-
+  http: ^0.13.4
+  cloud_firestore: ^3.3.0
+  pdf: ^3.8.1
+  printing: ^5.9.1
 
 dev_dependencies:
   flutter_test:
